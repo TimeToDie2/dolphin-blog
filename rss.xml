@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Dolphin Notes</title>
+    <link>https://example.com/</link>
+    <description>Dispatches from a tidal creative practice.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
+
+    <!--
+      TODO: Set your real site URL after enabling GitHub Pages.
+      Then regenerate this file (or edit manually) so <link> and <guid> are correct.
+    -->
+
+    <item>
+      <title>Charting the Currents</title>
+      <link>https://example.com/post.html?slug=hello-world</link>
+      <guid>https://example.com/post.html?slug=hello-world</guid>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[I launched Dolphin Notes to document the tides of creative technology, from tactile web experiments to long-form research logs.]]></description>
+    </item>
+  </channel>
+</rss>

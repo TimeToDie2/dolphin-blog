@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dolphin Notes — Post</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;600&family=Archivo:wght@300;400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-theme="light" class="post-page">
+    <div class="texture"></div>
+    <header class="site-header">
+      <div class="logo">Dolphin Notes</div>
+      <button class="theme-toggle" aria-label="Toggle color theme">
+        <span class="sun">Light</span>
+        <span class="moon">Dark</span>
+      </button>
+    </header>
+
+    <main class="post-wrapper">
+      <a class="post-back-link" href="index.html">← Back to index</a>
+      <article class="post-header">
+        <p class="post-tags" id="postTags"></p>
+        <h1 id="postTitle">Loading title…</h1>
+        <div class="post-info" id="postMeta"></div>
+      </article>
+      <section class="post-content" id="postContent">
+        <p>Loading content…</p>
+      </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.5/dist/purify.min.js"></script>
+    <script src="post.js" defer></script>
+  </body>
+</html>

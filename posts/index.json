@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "annoyance-01",
+    "title": "Things That Annoy Me (In the Useful Way)",
+    "date": "2026-02-14",
+    "excerpt": "A short list of small, fixable design sins: obvious narration, clipboard weirdness, and security that fails silently.",
+    "tags": [
+      "rant",
+      "ux",
+      "ops"
+    ],
+    "readingTime": "3 min",
+    "accent": "#55d6ff"
+  },
+  {
+    "slug": "hello-world",
+    "title": "Charting the Currents",
+    "date": "2024-07-14",
+    "excerpt": "I launched Dolphin Notes to document the tides of creative technology, from tactile web experiments to long-form research logs.",
+    "tags": [
+      "introduction",
+      "process"
+    ],
+    "readingTime": "4 min",
+    "accent": "#ff6f61"
+  }
+]
