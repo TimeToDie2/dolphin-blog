@@ -3,26 +3,10 @@ const metaEl = document.getElementById('postMeta');
 const contentEl = document.getElementById('postContent');
 const tagsEl = document.getElementById('postTags');
 
-function getPreferredTheme() {
-  const stored = localStorage.getItem('theme');
-  if (stored) return stored;
-  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-}
-
-function applyTheme(theme) {
-  document.body.dataset.theme = theme;
-  localStorage.setItem('theme', theme);
-  const toggle = document.querySelector('.theme-toggle');
-  if (toggle) toggle.setAttribute('aria-pressed', theme === 'dark');
-}
-
-function initThemeToggle() {
-  const toggle = document.querySelector('.theme-toggle');
-  if (!toggle) return;
-  applyTheme(getPreferredTheme());
-  toggle.addEventListener('click', () => {
-    applyTheme(document.body.dataset.theme === 'light' ? 'dark' : 'light');
-  });
+function initTheme() {
+  // Light-only mode.
+  document.body.dataset.theme = 'light';
+  try { localStorage.removeItem('theme'); } catch {}
 }
 
 function getSlug() {
@@ -74,7 +58,7 @@ function escapeHtml(value) {
 }
 
 async function main() {
-  initThemeToggle();
+  initTheme();
 
   const slug = getSlug();
   if (!slug) {

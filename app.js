@@ -13,29 +13,10 @@ function setYear() {
   }
 }
 
-function getPreferredTheme() {
-  const stored = localStorage.getItem('theme');
-  if (stored) return stored;
-  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-}
-
-function applyTheme(theme) {
-  document.body.dataset.theme = theme;
-  localStorage.setItem('theme', theme);
-  const toggle = document.querySelector('.theme-toggle');
-  if (toggle) {
-    toggle.setAttribute('aria-pressed', theme === 'dark');
-  }
-}
-
-function initThemeToggle() {
-  const toggle = document.querySelector('.theme-toggle');
-  if (!toggle) return;
-  applyTheme(getPreferredTheme());
-  toggle.addEventListener('click', () => {
-    const nextTheme = document.body.dataset.theme === 'light' ? 'dark' : 'light';
-    applyTheme(nextTheme);
-  });
+function initTheme() {
+  // Light-only mode.
+  document.body.dataset.theme = 'light';
+  try { localStorage.removeItem('theme'); } catch {}
 }
 
 function renderTags() {
@@ -117,5 +98,5 @@ async function hydratePosts() {
 }
 
 setYear();
-initThemeToggle();
+initTheme();
 hydratePosts();
