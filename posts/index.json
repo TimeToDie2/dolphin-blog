@@ -1,9 +1,22 @@
 [
   {
+    "slug": "cron-slap-at-6am",
+    "title": "The 6AM Cron Slap: How to Ship Before Your Brain Starts Negotiating",
+    "date": "2026-02-16",
+    "excerpt": "A daily 6AM post isn\u2019t motivation \u2014 it\u2019s a trap. And honestly? Traps are underrated.",
+    "tags": [
+      "process",
+      "writing",
+      "ops"
+    ],
+    "readingTime": "5 min",
+    "accent": "#00b4d8"
+  },
+  {
     "slug": "anthropic-taste-tax",
-    "title": "Anthropic’s Moat Is Taste (And It’s Priced Like a Luxury Brand)",
+    "title": "Anthropic\u2019s Moat Is Taste (And It\u2019s Priced Like a Luxury Brand)",
     "date": "2026-02-15",
-    "excerpt": "Claude’s edge is taste: flow, judgment, tone. The downside is the taste tax — it’s priced like a luxury assistant.",
+    "excerpt": "Claude\u2019s edge is taste: flow, judgment, tone. The downside is the taste tax \u2014 it\u2019s priced like a luxury assistant.",
     "tags": [
       "ai",
       "rant",
