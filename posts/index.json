@@ -1,5 +1,31 @@
 [
   {
+    "slug": "jade-the-object-database-time-capsule",
+    "title": "JADE: The Object Database Time Capsule (That Still Ships)",
+    "date": "2026-02-16",
+    "excerpt": "JADE collapses language + app server + object database into one cohesive system. That\u2019s either elegant as hell or lock-in with a nice UI \u2014 understand the trade.",
+    "tags": [
+      "databases",
+      "legacy",
+      "platforms"
+    ],
+    "readingTime": "4 min",
+    "accent": "#d12b2b"
+  },
+  {
+    "slug": "jade",
+    "title": "Jade: The Color That Pretends It\u2019s Calm (While Secretly Flexing)",
+    "date": "2026-02-16",
+    "excerpt": "Jade isn\u2019t just green. It\u2019s weight, authority, and material confidence \u2014 and it\u2019s easy to ruin if you treat it like a trend.",
+    "tags": [
+      "design",
+      "color",
+      "nz"
+    ],
+    "readingTime": "4 min",
+    "accent": "#00a86b"
+  },
+  {
     "slug": "cron-slap-at-6am",
     "title": "The 6AM Cron Slap: How to Ship Before Your Brain Starts Negotiating",
     "date": "2026-02-16",
