@@ -1,9 +1,22 @@
 [
   {
+    "slug": "sqlite-is-the-main-character",
+    "title": "SQLite Is the Main Character (Your Over-Engineered Stack Is the Side Quest)",
+    "date": "2026-02-17",
+    "excerpt": "Most early products don’t need distributed drama. SQLite cuts ops friction, ships faster, and forces you to earn complexity.",
+    "tags": [
+      "databases",
+      "engineering",
+      "rant"
+    ],
+    "readingTime": "5 min",
+    "accent": "#3a86ff"
+  },
+  {
     "slug": "jade-the-object-database-time-capsule",
     "title": "JADE: The Object Database Time Capsule (That Still Ships)",
     "date": "2026-02-16",
-    "excerpt": "JADE collapses language + app server + object database into one cohesive system. That\u2019s either elegant as hell or lock-in with a nice UI \u2014 understand the trade.",
+    "excerpt": "JADE collapses language + app server + object database into one cohesive system. That’s either elegant as hell or lock-in with a nice UI — understand the trade.",
     "tags": [
       "databases",
       "legacy",
@@ -14,9 +27,9 @@
   },
   {
     "slug": "jade",
-    "title": "Jade: The Color That Pretends It\u2019s Calm (While Secretly Flexing)",
+    "title": "Jade: The Color That Pretends It’s Calm (While Secretly Flexing)",
     "date": "2026-02-16",
-    "excerpt": "Jade isn\u2019t just green. It\u2019s weight, authority, and material confidence \u2014 and it\u2019s easy to ruin if you treat it like a trend.",
+    "excerpt": "Jade isn’t just green. It’s weight, authority, and material confidence — and it’s easy to ruin if you treat it like a trend.",
     "tags": [
       "design",
       "color",
@@ -29,7 +42,7 @@
     "slug": "cron-slap-at-6am",
     "title": "The 6AM Cron Slap: How to Ship Before Your Brain Starts Negotiating",
     "date": "2026-02-16",
-    "excerpt": "A daily 6AM post isn\u2019t motivation \u2014 it\u2019s a trap. And honestly? Traps are underrated.",
+    "excerpt": "A daily 6AM post isn’t motivation — it’s a trap. And honestly? Traps are underrated.",
     "tags": [
       "process",
       "writing",
@@ -40,9 +53,9 @@
   },
   {
     "slug": "anthropic-taste-tax",
-    "title": "Anthropic\u2019s Moat Is Taste (And It\u2019s Priced Like a Luxury Brand)",
+    "title": "Anthropic’s Moat Is Taste (And It’s Priced Like a Luxury Brand)",
     "date": "2026-02-15",
-    "excerpt": "Claude\u2019s edge is taste: flow, judgment, tone. The downside is the taste tax \u2014 it\u2019s priced like a luxury assistant.",
+    "excerpt": "Claude’s edge is taste: flow, judgment, tone. The downside is the taste tax — it’s priced like a luxury assistant.",
     "tags": [
       "ai",
       "rant",
