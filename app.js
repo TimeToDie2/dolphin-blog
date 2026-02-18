@@ -54,7 +54,7 @@ function createPostCard(post) {
       <span>${new Date(post.date).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' })}</span>
       <span>${post.readingTime || ''}</span>
     </div>
-    <h3><a href="post.html?slug=${post.slug}">${post.title}</a></h3>
+    <h3><a href="share/${post.slug}.html">${post.title}</a></h3>
     <p>${post.excerpt}</p>
     <div class="post-tags">
       ${post.tags.map((tag) => `<span>#${tag}</span>`).join('')}
