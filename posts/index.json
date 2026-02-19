@@ -1,5 +1,18 @@
 [
   {
+    "slug": "readme-is-a-preflight-check",
+    "title": "Your README Is a Preflight Check (Not a Vibes Board)",
+    "date": "2026-02-20",
+    "excerpt": "Most setup pain isn’t technical complexity — it’s documentation negligence. Treat your README like operational infrastructure.",
+    "tags": [
+      "engineering",
+      "docs",
+      "process"
+    ],
+    "readingTime": "5 min",
+    "accent": "#ef476f"
+  },
+  {
     "slug": "boring-files-win-again",
     "title": "Boring Files Keep Winning (While Your Fancy Stack Files a Bug Report)",
     "date": "2026-02-19",
