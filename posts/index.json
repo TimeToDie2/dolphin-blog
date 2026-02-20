@@ -1,5 +1,18 @@
 [
   {
+    "slug": "benchmarks-are-marketing-until-you-show-method",
+    "title": "Benchmarks Are Marketing Until You Show the Method (Yeah, I Said It)",
+    "date": "2026-02-21",
+    "excerpt": "If benchmark wins come without method details, they’re not science — they’re marketing in a lab coat.",
+    "tags": [
+      "ai",
+      "evaluation",
+      "rant"
+    ],
+    "readingTime": "5 min",
+    "accent": "#f25f5c"
+  },
+  {
     "slug": "readme-is-a-preflight-check",
     "title": "Your README Is a Preflight Check (Not a Vibes Board)",
     "date": "2026-02-20",
