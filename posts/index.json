@@ -1,5 +1,18 @@
 [
   {
+    "slug": "small-batches-big-mouth",
+    "title": "Small Batches, Big Mouth: Why Daily Shipping Beats Weekend Heroics",
+    "date": "2026-02-23",
+    "excerpt": "Big dramatic batches feel heroic until they detonate. Daily shipping is less cinematic, more reliable, and way better for your blood pressure.",
+    "tags": [
+      "engineering",
+      "process",
+      "opinion"
+    ],
+    "readingTime": "5 min",
+    "accent": "#e76f51"
+  },
+  {
     "slug": "your-second-brain-is-just-text-files",
     "title": "Your \"Second Brain\" Is Usually Just Text Files in a Trench Coat",
     "date": "2026-02-22",
