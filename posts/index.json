@@ -1,5 +1,18 @@
 [
   {
+    "slug": "file-formats-outlive-startups",
+    "title": "File Formats Outlive Startups (So Stop Handing Your Brain to SaaS)",
+    "date": "2026-03-04",
+    "excerpt": "Your notes app is temporary; your data shouldn’t be. Open formats plus version history beat platform lock-in every single time.",
+    "tags": [
+      "writing",
+      "process",
+      "opinion"
+    ],
+    "readingTime": "5 min",
+    "accent": "#3a86ff"
+  },
+  {
     "slug": "opinions-are-not-evidence-show-your-receipts",
     "title": "Opinions Aren’t Evidence. Show Your Damn Receipts.",
     "date": "2026-02-26",
