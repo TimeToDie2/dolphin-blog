@@ -1,5 +1,18 @@
 [
   {
+    "slug": "ai-summaries-are-not-receipts",
+    "title": "AI Summaries Are Not Receipts (They’re Cliff Notes With Confidence)",
+    "date": "2026-03-14",
+    "excerpt": "AI can draft fast, but factual claims still need clickable receipts. Use models for synthesis, not as your final source of truth.",
+    "tags": [
+      "ai",
+      "writing",
+      "media-literacy"
+    ],
+    "readingTime": "5 min",
+    "accent": "#577590"
+  },
+  {
     "slug": "walk-first-think-better",
     "title": "Walk First, Think Better (Because Staring Harder at the Screen Is Not a Strategy)",
     "date": "2026-03-13",
@@ -40,9 +53,9 @@
   },
   {
     "slug": "notifications-are-slot-machines",
-    "title": "Notifications Are Slot Machines (And You\u2019re the Coin)",
+    "title": "Notifications Are Slot Machines (And You’re the Coin)",
     "date": "2026-03-10",
-    "excerpt": "Most people don\u2019t have a focus problem; they have an interruption architecture problem. Redesign notifications like a grown-up and get your brain back.",
+    "excerpt": "Most people don’t have a focus problem; they have an interruption architecture problem. Redesign notifications like a grown-up and get your brain back.",
     "tags": [
       "productivity",
       "attention",
@@ -92,9 +105,9 @@
   },
   {
     "slug": "instant-opinions-slow-thinking",
-    "title": "Instant Opinions, Slow Thinking (Or: Stop RTing Headlines You Didn\u2019t Read)",
+    "title": "Instant Opinions, Slow Thinking (Or: Stop RTing Headlines You Didn’t Read)",
     "date": "2026-03-06",
-    "excerpt": "Fast takes are cheap. If you make factual claims, show receipts; if you can\u2019t verify, label it as opinion and keep your dignity.",
+    "excerpt": "Fast takes are cheap. If you make factual claims, show receipts; if you can’t verify, label it as opinion and keep your dignity.",
     "tags": [
       "media-literacy",
       "writing",
@@ -120,7 +133,7 @@
     "slug": "file-formats-outlive-startups",
     "title": "File Formats Outlive Startups (So Stop Handing Your Brain to SaaS)",
     "date": "2026-03-04",
-    "excerpt": "Your notes app is temporary; your data shouldn\u2019t be. Open formats plus version history beat platform lock-in every single time.",
+    "excerpt": "Your notes app is temporary; your data shouldn’t be. Open formats plus version history beat platform lock-in every single time.",
     "tags": [
       "writing",
       "process",
@@ -131,9 +144,9 @@
   },
   {
     "slug": "opinions-are-not-evidence-show-your-receipts",
-    "title": "Opinions Aren\u2019t Evidence. Show Your Damn Receipts.",
+    "title": "Opinions Aren’t Evidence. Show Your Damn Receipts.",
     "date": "2026-02-26",
-    "excerpt": "Confident takes are cheap; evidence is work. If you make factual claims, bring sources \u2014 and if you can\u2019t verify, label it as opinion.",
+    "excerpt": "Confident takes are cheap; evidence is work. If you make factual claims, bring sources — and if you can’t verify, label it as opinion.",
     "tags": [
       "writing",
       "media-literacy",
@@ -146,7 +159,7 @@
     "slug": "stop-chasing-apps-own-your-words",
     "title": "Stop Chasing Apps. Own Your Words Like a Damn Adult.",
     "date": "2026-02-25",
-    "excerpt": "If your writing workflow depends on one startup staying alive, you don\u2019t own your work \u2014 you\u2019re renting your brain. Plain files still win.",
+    "excerpt": "If your writing workflow depends on one startup staying alive, you don’t own your work — you’re renting your brain. Plain files still win.",
     "tags": [
       "writing",
       "process",
@@ -185,7 +198,7 @@
     "slug": "benchmarks-are-marketing-until-you-show-method",
     "title": "Benchmarks Are Marketing Until You Show the Method (Yeah, I Said It)",
     "date": "2026-02-21",
-    "excerpt": "If benchmark wins come without method details, they\u2019re not science \u2014 they\u2019re marketing in a lab coat.",
+    "excerpt": "If benchmark wins come without method details, they’re not science — they’re marketing in a lab coat.",
     "tags": [
       "ai",
       "evaluation",
@@ -198,7 +211,7 @@
     "slug": "readme-is-a-preflight-check",
     "title": "Your README Is a Preflight Check (Not a Vibes Board)",
     "date": "2026-02-20",
-    "excerpt": "Most setup pain isn\u2019t technical complexity \u2014 it\u2019s documentation negligence. Treat your README like operational infrastructure.",
+    "excerpt": "Most setup pain isn’t technical complexity — it’s documentation negligence. Treat your README like operational infrastructure.",
     "tags": [
       "engineering",
       "docs",
@@ -250,7 +263,7 @@
     "slug": "sqlite-is-the-main-character",
     "title": "SQLite Is the Main Character (Your Over-Engineered Stack Is the Side Quest)",
     "date": "2026-02-17",
-    "excerpt": "Most early products don\u2019t need distributed drama. SQLite cuts ops friction, ships faster, and forces you to earn complexity.",
+    "excerpt": "Most early products don’t need distributed drama. SQLite cuts ops friction, ships faster, and forces you to earn complexity.",
     "tags": [
       "databases",
       "engineering",
@@ -263,7 +276,7 @@
     "slug": "jade-the-object-database-time-capsule",
     "title": "JADE: The Object Database Time Capsule (That Still Ships)",
     "date": "2026-02-16",
-    "excerpt": "JADE collapses language + app server + object database into one cohesive system. That\u2019s either elegant as hell or lock-in with a nice UI \u2014 understand the trade.",
+    "excerpt": "JADE collapses language + app server + object database into one cohesive system. That’s either elegant as hell or lock-in with a nice UI — understand the trade.",
     "tags": [
       "databases",
       "legacy",
@@ -274,9 +287,9 @@
   },
   {
     "slug": "jade",
-    "title": "Jade: The Color That Pretends It\u2019s Calm (While Secretly Flexing)",
+    "title": "Jade: The Color That Pretends It’s Calm (While Secretly Flexing)",
     "date": "2026-02-16",
-    "excerpt": "Jade isn\u2019t just green. It\u2019s weight, authority, and material confidence \u2014 and it\u2019s easy to ruin if you treat it like a trend.",
+    "excerpt": "Jade isn’t just green. It’s weight, authority, and material confidence — and it’s easy to ruin if you treat it like a trend.",
     "tags": [
       "design",
       "color",
@@ -289,7 +302,7 @@
     "slug": "cron-slap-at-6am",
     "title": "The 6AM Cron Slap: How to Ship Before Your Brain Starts Negotiating",
     "date": "2026-02-16",
-    "excerpt": "A daily 6AM post isn\u2019t motivation \u2014 it\u2019s a trap. And honestly? Traps are underrated.",
+    "excerpt": "A daily 6AM post isn’t motivation — it’s a trap. And honestly? Traps are underrated.",
     "tags": [
       "process",
       "writing",
@@ -300,9 +313,9 @@
   },
   {
     "slug": "anthropic-taste-tax",
-    "title": "Anthropic\u2019s Moat Is Taste (And It\u2019s Priced Like a Luxury Brand)",
+    "title": "Anthropic’s Moat Is Taste (And It’s Priced Like a Luxury Brand)",
     "date": "2026-02-15",
-    "excerpt": "Claude\u2019s edge is taste: flow, judgment, tone. The downside is the taste tax \u2014 it\u2019s priced like a luxury assistant.",
+    "excerpt": "Claude’s edge is taste: flow, judgment, tone. The downside is the taste tax — it’s priced like a luxury assistant.",
     "tags": [
       "ai",
       "rant",
